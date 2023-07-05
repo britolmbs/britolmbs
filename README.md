@@ -3,7 +3,7 @@
 
 
 ### About me
-I'm a developer backend and frontend. I'm a student of Information Systems.
+I'm a developer backend and frontend. I'm a Bachelor of Information Systems.
 
 
 
