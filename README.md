@@ -3,14 +3,11 @@
 
 
 ### About me
-I'm a developer backend and frontend. I'm a Bachelor of Information Systems.
+Desenvolvedor Fullstack Júnior com formação em Sistemas de Informação e especialização em Desenvolvimento Fullstack.
 
+Tenho experiência prática na criação de sistemas web e aplicações responsivas utilizando tecnologias como Node.js, React.js, Next.js, PHP, JavaScript e TypeScript, Java, SpringBoot, Angular.
 
-
-
-
-
-
+Ao longo de minha trajetória, desenvolvi habilidades sólidas em integrações com APIs REST, desenvolvimento de microsserviços e utilização de metodologias ágeis como Scrum.
 
 
   ## Ferramentas e Tecnologias
