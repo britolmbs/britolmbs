@@ -3,26 +3,31 @@
 
 
 ### About me
-Desenvolvedor Fullstack Júnior com formação em Sistemas de Informação e especialização em Desenvolvimento Fullstack.
 
-Tenho experiência prática na criação de sistemas web e aplicações responsivas utilizando tecnologias como Node.js, React.js, Next.js, PHP, JavaScript, TypeScript e Angular.
+Desenvolvedor Fullstack com formação em Sistemas de Informação.
 
-Ao longo de minha trajetória, desenvolvi habilidades sólidas em integrações com APIs REST, desenvolvimento de microsserviços e utilização de metodologias ágeis como Scrum.
+Desenvolvimento de sistemas e páginas web responsivas utilizando JavaScript, TypeScript, PHP, Node.js, React.js, Next.js e Angular.
+
+Ao longo de minha trajetória, desenvolvi habilidades sólidas em integrações com RESTful APIs, autenticação segura (JWT, OAuth) e operações assíncronas no back-end desenvolvimento de microserviços e utilização de metodologias ágeis como Scrum.
 
 
   ## Ferramentas e Tecnologias
  <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 </div>
           
       
       
 
-      
+ ## Conecte-se comigo     
 <div>
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/britolmbs/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/britolmbs/) [<img src="https://img.shields.io/badge/portfolio" />](https://lucas-brito-portifolio.vercel.app/)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/britolmbs/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/britolmbs/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucas-brito-portifolio.vercel.app/)
+ 
+ 
  </div>
 
 
