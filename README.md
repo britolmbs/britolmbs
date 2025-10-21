@@ -4,16 +4,14 @@
 
 ### About me
 
-Desenvolvedor Fullstack com formação em Sistemas de Informação.
+Desenvolvedor Full Stack formado em Sistemas de Informação, com foco no desenvolvimento de sistemas backend em Java com Spring Boot, além de aplicações web modernas e responsivas. Experiência com JavaScript, TypeScript, PHP, Node.js, React, Next.js e Angular, criando soluções escaláveis e de alta performance.
 
-Desenvolvimento de sistemas e páginas web responsivas utilizando JavaScript, TypeScript, PHP, Node.js, React.js, Next.js e Angular.
-
-Ao longo de minha trajetória, desenvolvi habilidades sólidas em integrações com RESTful APIs, autenticação segura (JWT, OAuth) e operações assíncronas no back-end desenvolvimento de microserviços e utilização de metodologias ágeis como Scrum.
+Atuação em integração de RESTful APIs, autenticação segura (JWT, OAuth), operações assíncronas, testes automatizados com JUnit e arquitetura de microserviços. Domínio em bancos de dados PostgreSQL, MySQL e MongoDB, além de uso de Maven para gerenciamento de dependências.
 
 
   ## Ferramentas e Tecnologias
  <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </div>
           
       
